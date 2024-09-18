@@ -1,1 +1,1 @@
-# simple-HTML-CSS-JS-landing-page
+# simple E-commerce website-HTML-CSS-JS-landing-page
